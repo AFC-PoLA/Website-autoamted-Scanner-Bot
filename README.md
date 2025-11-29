@@ -18,6 +18,19 @@ A powerful Telegram bot that scans websites for security vulnerabilities with 35
 - **PDF Reports** - Generate professional security reports
 - **Free to Use** - No subscription required
 
+ 
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### Scan Selection
+![Scan Selection](screenshots/scan-selection.png)
+
+### Scan Results
+![Scan Results](screenshots/scan-results.png)
+
+
 ## How to Use
 
 1. Open the bot: **[Bot](https://t.me/Fbi_wp_hacker_bot)**
