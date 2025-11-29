@@ -20,7 +20,7 @@ A powerful Telegram bot that scans websites for security vulnerabilities with 35
 
 ## How to Use
 
-1. Open the bot: **[@YourBotUsername](https://t.me/Fbi_wp_hacker_bot)**
+1. Open the bot: **[Bot](https://t.me/Fbi_wp_hacker_bot)**
 2. Send `/start` to begin
 3. Send any website URL
 4. Select the scans you want to run
@@ -58,8 +58,7 @@ This tool is for educational and authorized security testing only. Always get pr
 
 ## Contact
 
-For questions or support, message the bot owner on Telegram.
-
+For questions or support, message the bot owner on **[TELEGRAM](https://t.me/@Zoxionx)**
 ---
 
-**[Start Scanning Now](https://t.me/YourBotUsername)**
+**[Start Scanning Now](https://t.me/Fbi_wp_hacker_bot)**
