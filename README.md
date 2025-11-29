@@ -58,7 +58,7 @@ This tool is for educational and authorized security testing only. Always get pr
 
 ## Contact
 
-For questions or support, message the bot owner on **[TELEGRAM](https://t.me/Zoxionx)**
+For questions or support, message the bot owner on **[TELEGRAM](https://t.me/Zoxionx)** OR **[INSTAGRAM](https://www.instagram.com/afc_pola)**
 ---
 
 **[Start Scanning Now](https://t.me/Fbi_wp_hacker_bot)**
