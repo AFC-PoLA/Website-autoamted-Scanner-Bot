@@ -22,7 +22,7 @@ A powerful Telegram bot that scans websites for security vulnerabilities with 35
 ## Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](scan-results.png)
 
 ### Scan Selection
 ![Scan Selection](screenshots/scan-selection.png)
